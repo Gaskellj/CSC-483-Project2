@@ -1,6 +1,6 @@
 """Text classification for identifying complex words.
 
-Author: Kristina Striegnitz and <YOUR NAME HERE>
+Author: Kristina Striegnitz and James Gaskell
 
 <HONOR CODE STATEMENT HERE>
 
