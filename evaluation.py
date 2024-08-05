@@ -1,8 +1,6 @@
 """Evaluation Metrics
 
-Author: Kristina Striegnitz and <YOUR NAME HERE>
-
-<HONOR CODE STATEMENT HERE>
+Author: Kristina Striegnitz and James Gaskell
 
 Complete this file for part 1 of the project.
 """
